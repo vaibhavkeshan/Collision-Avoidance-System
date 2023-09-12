@@ -8,6 +8,7 @@ Steps to simulate:
 
 Step 1: 
       Click on the run button to start the simulation
+
 Step 2:
       Click on the Ultrasonic Distance Sensor to change the distance
 
